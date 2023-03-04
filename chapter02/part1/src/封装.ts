@@ -27,7 +27,7 @@
 
     }
     const per = new Person('sss', 17);
-    per.name = "AAA";
+    per.name = "AAABBBB";
 
 console.log(per.name)
 
